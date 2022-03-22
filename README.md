@@ -1,0 +1,2 @@
+
+In this repo you will find an example of object oriented programming (OOP). Each java file (with the exception of Hospital.java) contains a class or a subclass. To run the file you will need to create a package and import the files. The Hospital.java file contains the main function which will create instances of all of the classes and invoke methods defined in the respective classes.
